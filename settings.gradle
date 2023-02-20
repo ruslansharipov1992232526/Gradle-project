@@ -1,0 +1,5 @@
+rootProject.name = 'grad-two-lesson'
+include 'api'
+include 'db'
+include 'service'
+
